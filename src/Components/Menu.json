@@ -1,0 +1,75 @@
+[
+    {
+      "id": "1",
+      "name": "BitterLeaf Soup",
+      "price": 2500,
+      "image": "./images/bitterleaf.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Edikanikong Soup",
+      "price": 2500,
+      "image": "./images/Edikanikongsoup.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Egusi Soup",
+      "price": 2500,
+      "image": "./images/egusi.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Oha Soup",
+      "price": 2500,
+      "image": "./images/ohasoup.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Okro Soup",
+      "price": 2000,
+      "image": "./images/okro-soup.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Jollof Rice",
+      "price": 1500,
+      "image": "../images/jollof rice.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Fried Rice",
+      "price": 1500,
+      "image": "../images/Fried rice.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Jollof Rice & Chicken",
+      "price": 3500,
+      "image": "./images/her.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Long grain Jollof Rice",
+      "price": 5000,
+      "image": "./images/rice hero.jpg"
+    },
+    {
+      "id": "10",
+      "name": "White Rice & Stew",
+      "price": 3000,
+      "image": "./images/white rice.jpg"
+    },
+    {
+        "id": "11",
+        "name": "Pounded Yam",
+        "price": 3000,
+        "image": "./images/Pounded yam.jpg"
+      },
+      {
+        "id": "12",
+        "name": "eba",
+        "price": 3000,
+        "image": "./images/eba.png"
+      }
+  ]
+  
